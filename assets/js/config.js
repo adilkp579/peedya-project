@@ -9,6 +9,6 @@
    window.WK_CONFIG = {
     SUPABASE_URL: 'https://pfowhfszrguvwgzzbobv.supabase.co',
     SUPABASE_ANON_KEY: 'sb_publishable_icHX2nqUiiw-dtPKS8ROCQ_cPPgS9Cl',
-    ADMIN_EMAIL: 'admin@webkit.store',
+    ADMIN_EMAIL: '',
   RAZORPAY_KEY: ''
 };
